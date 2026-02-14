@@ -5,5 +5,3 @@
 
 
 
-
-See it live: [See it Live](https://dullhipolito.github.io/Valentines-for-Irish/)
